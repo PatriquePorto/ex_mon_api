@@ -1,4 +1,4 @@
-# ExMon
+# ExMon_Api
 
 To start your Phoenix server:
 
