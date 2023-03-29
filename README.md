@@ -1,5 +1,10 @@
 # ExMon_Api
 
+Project developed in the Phoenix/Elixir course by professor Rafael Camarda.
+
+An api based on the pokemon game.
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
