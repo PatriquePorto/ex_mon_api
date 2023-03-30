@@ -4,6 +4,11 @@ Project developed in the Phoenix/Elixir course by professor Rafael Camarda.
 
 An api based on the pokemon game.
 
+<p align="left">
+  <img alt="App" src="/img/full-page.png" width="50%" height="30%">
+</p>
+
+
 
 To start your Phoenix server:
 
