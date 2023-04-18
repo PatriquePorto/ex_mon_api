@@ -8,7 +8,7 @@ An api based on the pokemon game.
   <img alt="App" src="/img/page.png" width="90%" height="30%">
 </p>
 
-<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨ <h3>Technologies used</h3> </g-emoji>
+<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨ <h2>Technologies used</h2> </g-emoji>
 
 
 To start your Phoenix server:
